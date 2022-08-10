@@ -1,13 +1,13 @@
-package com.example.kodillcourse;
+package com.example.kodillatesting;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class KodillCourseApplication {
+public class KodillaTestingApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(KodillCourseApplication.class, args);
+        SpringApplication.run(KodillaTestingApplication.class, args);
     }
 
 }
